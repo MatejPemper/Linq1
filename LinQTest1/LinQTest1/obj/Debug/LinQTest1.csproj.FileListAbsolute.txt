@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\LinQTest1\LinQTest1\bin\Debug\LinQTest1.exe.config
+C:\Users\ucenik\source\repos\LinQTest1\LinQTest1\bin\Debug\LinQTest1.exe
+C:\Users\ucenik\source\repos\LinQTest1\LinQTest1\bin\Debug\LinQTest1.pdb
+C:\Users\ucenik\source\repos\LinQTest1\LinQTest1\obj\Debug\LinQTest1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\LinQTest1\LinQTest1\obj\Debug\LinQTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\LinQTest1\LinQTest1\obj\Debug\LinQTest1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\LinQTest1\LinQTest1\obj\Debug\LinQTest1.exe
+C:\Users\ucenik\source\repos\LinQTest1\LinQTest1\obj\Debug\LinQTest1.pdb
